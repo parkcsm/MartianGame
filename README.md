@@ -95,8 +95,8 @@
 
 ## 작품 플레이 영상
 <img src="videos/play_video1.gif" height="500">
-<br><br>
+<br>
 <img src="videos/play_video2.gif" height="500"> 
-<br><br>
-<img src="play_video3.gif" height="500">
-<br><br>
+<br>
+<img src="videos/play_video3.gif" height="500">
+<br>
